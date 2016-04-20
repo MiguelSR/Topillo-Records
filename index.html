@@ -5,10 +5,33 @@
 </head>
 <body>
 <h1>Topillo Records</h1>
-<ul>
-  <li><p><a href="releases">Releases</a></p></li>
-  <li><p><a href="https://www.discogs.com/seller/MiguelSR/profile" target="_blank">Mailorder</a></p></li>
-  <li><p><a href="contact">Contact</a></p></li>
-</ul>
+<nav>
+  <p><a class="insite-link" href="releases">Releases</a></p>
+  <p><a href="https://www.discogs.com/seller/MiguelSR/profile" target="_blank">Mailorder</a></p>
+  <p><a class="insite-link" href="contact">Contact</a></p>
+</nav>
+<main>
+  <section class="releases">
+    <article>
+      <h1>Misty Grey - Grey Mist</h1>
+      <p>Finally available in a proper format this awesome slab of pure doom metal from the capital of Spain. After two years of doomed events, we feel extremely honored of being one of the distributors of this spanish doom gem. For fans of Pentagram, Witchfinder General or Reino Ermita&ntilde;o.</p>
+    </article>
+  </section>
+  <section class="contact" style="display:none">
+    Send us a mail to blackhandzine [AT] gmail [DOT] com for further information.
+  </section>
+</main>
+<script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+<script>
+  $(document).ready(function() {
+      $('.insite-link').click(function(e) {
+        var section;
+        e.preventDefault();
+        section = $(e.target).attr('href');
+        $('section.' + section).show(); 
+        $('section:not(.' + section + ')').hide(); 
+      });
+  });
+</script>
 </body>
 </html>
