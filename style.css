@@ -1,5 +1,18 @@
+body {
+    font-family: 'Arvo', serif;
+    margin:0px;
+    padding:0px;
+}
+
+#main_header {
+    background-color:black;
+    color:white;
+}
+
 #main_title {
     text-align: center;
+    margin:0;
+    padding:10px;
 }
 
 #menu {
@@ -12,19 +25,33 @@
     padding: 0;
     margin: 0;
     text-align: center;
-    border-bottom:1px dashed black;
+    border-bottom:1px dotted black;
     padding-bottom:20px;
 }
 
-#menu ul li
+#menu li
 {
     display: inline;
     margin-right:20px;
     margin-bottom:10px;
     padding:5px;
 }
-#menu ul li a
+#menu a
 {
     display: inline-block;
-    text-decoration:none;
+    color: white;
+}
+
+main h2 {
+    text-align: center;
+}
+
+main article {
+    margin-left:10%;
+    margin-right:10%;
+    text-align: justify;
+}
+
+#contact_text {
+    text-align: center;
 }
