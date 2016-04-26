@@ -25,7 +25,6 @@ body {
     padding: 0;
     margin: 0;
     text-align: center;
-    border-bottom:1px dotted black;
     padding-bottom:20px;
 }
 
@@ -42,16 +41,28 @@ body {
     color: white;
 }
 
-main h2 {
-    text-align: center;
-}
-
-main article {
+main {
     margin-left:10%;
     margin-right:10%;
     text-align: justify;
 }
 
-#contact_text {
+main h2 {
     text-align: center;
+}
+
+#items {
+    border-top: 1px dotted black;
+    margin-top: 2em;
+}
+
+article h3 {
+    margin-bottom:0.2em;
+}
+
+main .label_info {
+    font-style: italic; 
+    font-size:0.8em;
+    margin:0;
+    padding:0;
 }
