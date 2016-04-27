@@ -63,6 +63,7 @@ h2 {
 }
 
 .item_list img {
+    float: left;
     margin: 0 1em 1em 0; 
 }
 
@@ -75,8 +76,4 @@ main .label_info {
     font-size:0.8em;
     margin:0;
     padding:0;
-}
-
-img {
-    float: left;
 }
