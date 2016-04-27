@@ -51,13 +51,14 @@ h2 {
 }
 
 .item_list {
-    border-top: 1px dotted black;
+    border-top: 1px solid black;
     margin-top: 2em;
     padding: 0;
 }
 
 .item_list li {
     list-style:none;
+    border-bottom:1px solid black;
 }
 
 h3 {
