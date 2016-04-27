@@ -31,7 +31,8 @@ body {
 .main_menu li
 {
     display: inline;
-    margin-right:20px;
+    margin-left:10px;
+    margin-right:10px;
     padding:5px;
 }
 .main_menu a
