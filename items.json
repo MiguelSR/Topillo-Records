@@ -1,0 +1,19 @@
+{
+    "items": [{
+      "image": "greymist.jpg",
+      "band": "Misty Grey",
+      "album": "Grey Mist",
+      "format": "CD",
+      "description": "Traditional doom metal with creepy female vocals from Madrid. For fans of Pentagram, Witchfinder General or Reino Ermitaño. Arguably, the best doom album ever recorded in Spain.",
+      "label": "Out of the Past, Vertebrae, Topillo Records",
+      "price": 8
+    }, {
+      "image": "forevermourn.jpg",
+      "band": "The Temple",
+      "album": "Forevermourn",
+      "format": "CD",
+      "description": "Awesome epic doom metal that will remind you bands like Solstice, (early) While Heaven Wept and the likes. Powerful, ceremonial and very classy.",
+      "label": "I Hate Records",
+      "price": 8
+    }]
+}

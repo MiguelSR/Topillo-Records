@@ -1,0 +1,27 @@
+{
+  "name": "topillo",
+  "version": "1.0.0",
+  "description": "Topillo Records",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelSR/Topillo-Records.git"
+  },
+  "keywords": [
+    "topillo",
+    "records"
+  ],
+  "author": "Miguel Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelSR/Topillo-Records/issues"
+  },
+  "homepage": "https://github.com/MiguelSR/Topillo-Records#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mustache": "^2.2.0"
+  }
+}
