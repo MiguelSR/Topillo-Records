@@ -8,6 +8,14 @@
       "label": "Black Widow Records",
       "price": 8
     }, {
+      "image": "serologiikalscars.jpg",
+      "band": "Khthoniik Cerviiks",
+      "album": "SeroLogiikal Scars (Vertex of Dementiia)",
+      "format": "CD",
+      "description": "Twisted and furious Death/Black metal. Imagine a fast-paced, extreme sounding version of Voivod's mid-career albums with an atmosphere similar to last Bloody Sign CD. Killer!",
+      "label": "Necroshrine Records",
+      "price": 8
+    }, {
       "image": "greymist.jpg",
       "band": "Misty Grey",
       "album": "Grey Mist",
@@ -16,12 +24,28 @@
       "label": "Out of the Past, Vertebrae, Topillo Records",
       "price": 8
     }, {
+      "image": "lacavernadefuego.jpg",
+      "band": "Oniricous",
+      "album": "La Caverna de Fuego",
+      "format": "CD",
+      "description": "Finally available the second full-length of this death metal maniacs from Cuenca (Spain). If you like your Death Metal being rooted in the ancient sounds, try this.",
+      "label": "Equinox Discos",
+      "price": 8
+    }, {
       "image": "forevermourn.jpg",
       "band": "The Temple",
       "album": "Forevermourn",
       "format": "CD",
       "description": "Awesome epic doom metal that will remind you bands like Solstice, (early) While Heaven Wept and the likes. Powerful, ceremonial and very classy.",
       "label": "I Hate Records",
+      "price": 8
+    }, {
+      "image": "stayclosetothefire.jpg",
+      "band": "Voidkush",
+      "album": "Stay Close To The Fire",
+      "format": "CD",
+      "description": "Interesting band from the minds behind Insulters. Here they play a mix of Black/Death/Rock n roll with some doomy touches.",
+      "label": "Equinox Discos",
       "price": 8
     }]
 }
