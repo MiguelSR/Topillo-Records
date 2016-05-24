@@ -1,51 +1,93 @@
 {
-    "items": [{
-      "image": "ancientrocks.jpg",
-      "band": "The Hounds of Hasselvander",
-      "album": "Ancient Rocks",
-      "format": "CD",
-      "description": "The Godfather of Doom is back! Joe Hasselvander is a well-known musician and needs no introduction. In this CD he pays tribute to his favourite bands and records 12 amazing tracks of doomed 60/70s hard rockin' classics.",
-      "label": "Black Widow Records",
-      "price": 8
-    }, {
-      "image": "serologiikalscars.jpg",
-      "band": "Khthoniik Cerviiks",
-      "album": "SeroLogiikal Scars (Vertex of Dementiia)",
-      "format": "CD",
-      "description": "Twisted and furious Death/Black metal. Imagine a fast-paced, extreme sounding version of Voivod's mid-career albums with an atmosphere similar to last Bloody Sign CD. Killer!",
-      "label": "Necroshrine Records",
-      "price": 8
-    }, {
-      "image": "greymist.jpg",
-      "band": "Misty Grey",
-      "album": "Grey Mist",
-      "format": "CD",
-      "description": "Traditional doom metal with creepy female vocals from Madrid. For fans of Pentagram, Witchfinder General or Reino Ermitaño. Arguably, the best doom album ever recorded in Spain.",
-      "label": "Out of the Past, Vertebrae, Topillo Records",
-      "price": 8
-    }, {
-      "image": "lacavernadefuego.jpg",
-      "band": "Oniricous",
-      "album": "La Caverna de Fuego",
-      "format": "CD",
-      "description": "Finally available the second full-length of these death metal maniacs from Cuenca (Spain). If you like your Death Metal being rooted in the ancient sounds, try this.",
-      "label": "Equinox Discos",
-      "price": 8
-    }, {
-      "image": "forevermourn.jpg",
-      "band": "The Temple",
-      "album": "Forevermourn",
-      "format": "CD",
-      "description": "Awesome epic doom metal that will remind you bands like Solstice, (early) While Heaven Wept and the likes. Powerful, ceremonial and very classy.",
-      "label": "I Hate Records",
-      "price": 8
-    }, {
-      "image": "stayclosetothefire.jpg",
-      "band": "Voidkush",
-      "album": "Stay Close To The Fire",
-      "format": "CD",
-      "description": "Interesting band from the minds behind Insulters. Here they play a mix of Black/Death/Rock n roll with some doomy touches.",
-      "label": "Equinox Discos",
-      "price": 8
-    }]
+    "items": [
+        {
+          "image": "mountainsofmadness.jpg",
+          "band": "Doomraiser",
+          "album": "Mountains of Madness",
+          "format": "CD (Digi)",
+          "description": "Third record of this pure doom metal band from Italy. Great CD!",
+          "label": "BloodRock Records",
+          "price": 8
+        }, {
+          "image": "ancientrocks.jpg",
+          "band": "The Hounds of Hasselvander",
+          "album": "Ancient Rocks",
+          "format": "CD",
+          "description": "The Godfather of Doom is back! Joe Hasselvander is a well-known musician and needs no introduction. In this CD he pays tribute to his favourite bands and records 12 amazing tracks of doomed 60/70s hard rockin' classics.",
+          "label": "Black Widow Records",
+          "price": 8
+        }, {
+          "image": "serologiikalscars.jpg",
+          "band": "Khthoniik Cerviiks",
+          "album": "SeroLogiikal Scars (Vertex of Dementiia)",
+          "format": "CD",
+          "description": "Twisted and furious Death/Black metal. Imagine a fast-paced, extreme sounding version of Voivod's mid-career albums with an atmosphere similar to last Bloody Sign CD. Killer!",
+          "label": "Necroshrine Records",
+          "price": 8
+        }, {
+          "image": "mesemetal.jpg",
+          "band": "Lepillantóküllő",
+          "album": "Mese-Metál",
+          "format": "CD",
+          "description": "Cult 1992 demo from this hungarian crossover band. Recommended for freaks of hungarian crossover, goulash, etc!",
+          "label": "Metal Ör Die Records",
+          "price": 8
+        }, {
+          "image": "thethirdman.jpg",
+          "band": "Misty Grey",
+          "album": "The Third Man",
+          "format": "CD",
+          "description": "Compilation CD of Misty Grey, including their EP \"The Third Man\" and their demo \"Demon\". A bit more raw than the debut CD but still great dooooom.",
+          "label": "Out of the Past, Vertebrae, Topillo Records",
+          "price": 8
+        }, {
+          "image": "greymist.jpg",
+          "band": "Misty Grey",
+          "album": "Grey Mist",
+          "format": "CD",
+          "description": "Traditional doom metal with creepy female vocals from Madrid. For fans of Pentagram, Witchfinder General or Reino Ermitaño. Arguably, the best doom album ever recorded in Spain.",
+          "label": "Out of the Past, Vertebrae, Topillo Records",
+          "price": 8
+        }, {
+          "image": "nightgaunt.jpg",
+          "band": "Night Gaunt",
+          "album": "Night Gaunt",
+          "format": "CD",
+          "description": "First full-length of this punkish doom metal band from Rome.",
+          "label": "BloodRock Records",
+          "price": 8
+        }, {
+          "image": "lacavernadefuego.jpg",
+          "band": "Oniricous",
+          "album": "La Caverna de Fuego",
+          "format": "CD",
+          "description": "Finally available the second full-length of these death metal maniacs from Cuenca (Spain). If you like your Death Metal being rooted in the ancient sounds, try this.",
+          "label": "Equinox Discos",
+          "price": 8
+        }, {
+          "image": "forevermourn.jpg",
+          "band": "The Temple",
+          "album": "Forevermourn",
+          "format": "CD",
+          "description": "Awesome epic doom metal that will remind you bands like Solstice, (early) While Heaven Wept and the likes. Powerful, ceremonial and very classy.",
+          "label": "I Hate Records",
+          "price": 8
+        }, {
+          "image": "stayclosetothefire.jpg",
+          "band": "Voidkush",
+          "album": "Stay Close To The Fire",
+          "format": "CD",
+          "description": "Interesting band from the minds behind Insulters. Here they play a mix of Black/Death/Rock n roll with some doomy touches.",
+          "label": "Equinox Discos",
+          "price": 8
+        }, {
+          "image": "warlordsofdestruction.jpg",
+          "band": "Witchtiger",
+          "album": "Warlords of Destruction (2004-2014)",
+          "format": "CD",
+          "description": "Compilation from this epic heavy/doom metal band from Finland. Raw style influenced by Manilla Road, Reverend Bizarre, etc.",
+          "label": "Metal Ör Die Records",
+          "price": 8
+        }
+    ]
 }
