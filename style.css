@@ -4,6 +4,19 @@ body {
     padding:0;
 }
 
+/** START LANDING PAGE STYLES **/
+
+.landing_link {
+    text-align:center;
+    display:block;
+}
+
+.landing_img {
+    max-width:100%;
+}
+
+/** END   LANDING PAGE STYLES **/
+
 .main_header {
     background-color:black;
     color:white;
@@ -47,6 +60,10 @@ main {
     margin-left:10%;
     margin-right:10%;
     text-align: justify;
+}
+
+.landing_image {
+    text-align: center; 
 }
 
 h2 {
