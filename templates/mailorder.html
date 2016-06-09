@@ -1,0 +1,23 @@
+@@include('includes/header.html')
+<main>
+  <section>
+    <h2>Mailorder</h2>
+    <p class="info_text">To order our items, just send a mail to <a href="mailto:blackhandzine@gmail.com">blackhandzine@gmail.com</a> and we'll answer you as soon as possible.<br>
+    You can also check our  <a href="https://www.discogs.com/seller/MiguelSR/profile">Discogs profile</a> and get them there.</p>
+    <ul class="item_list">
+    {{#items}}
+        <li>
+          <article>
+            <img src="img/{{image}}" alt="{{band}} - {{album}}">
+            <h3>{{band}} - {{album}} ({{format}}) - {{price}} €</h3>
+            <p class="label_info">{{label}}</p>
+            <p>{{description}}</p>
+            <div style="clear:both"></div>
+          </article>
+        </li>
+    {{/items}}
+    </ul>
+  </section>
+</main>
+</body>
+</html>

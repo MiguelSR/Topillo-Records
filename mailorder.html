@@ -14,23 +14,15 @@
   <h1 class="main_title">TOPILLO RECORDS</h1>
   <nav class="main_menu">
     <ul>
-      <li><a class="insite-link" href="releases">Releases</a></li>
-      <li><a class="insite-link" href="mailorder">Mailorder</a></li>
-      <li><a class="insite-link" href="about-us">About us</a></li>
+      <li><a class="insite-link" href="releases.html">Releases</a></li>
+      <li><a class="insite-link" href="mailorder.html">Mailorder</a></li>
+      <li><a class="insite-link" href="faq.html">FAQ</a></li>
     </ul>
   </nav>
 </header>
+
 <main>
-
-  <section class="releases">
-    <h2>Releases</h2>
-    <article>
-      <h3>Misty Grey - Grey Mist (CD)</h3>
-      <p>After two years of doomed events, we can finally enjoy this awesome slab of spanish doom metal. Previously edited in tape by Shadow Kingdom Records and now in CD by Out of the Past, Vertebrae and us. For fans of Pentagram, Witchfinder General or Reino Ermitaño. Enjoy it on <a href="https://mistygreydoom.bandcamp.com/album/grey-mist" target="_blank">their Bandcamp</a>.</p>
-    </article>
-  </section>
-
-  <section class="mailorder" style="display:none">
+  <section>
     <h2>Mailorder</h2>
     <p class="info_text">To order our items, just send a mail to <a href="mailto:blackhandzine@gmail.com">blackhandzine@gmail.com</a> and we'll answer you as soon as possible.<br>
     You can also check our  <a href="https://www.discogs.com/seller/MiguelSR/profile">Discogs profile</a> and get them there.</p>
@@ -145,25 +137,6 @@
         </li>
     </ul>
   </section>
-
-  <section class="about-us" style="display:none">
-    <h2>About us</h2>
-    <p>We're Topillo Records, a small label from Spain. We began in April 2016 co-releasing <strong>Grey Mist</strong>, the debut CD of <strong>Misty Grey</strong>.</p>
-    <p class="info_text">Send us a mail to <a href="mailto:blackhandzine@gmail.com">blackhandzine@gmail.com</a> for further information.</p>
-  </section>
-
 </main>
-<script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
-<script>
-  $(document).ready(function() {
-      $('.insite-link').click(function(e) {
-        var section;
-        e.preventDefault();
-        section = $(e.target).attr('href');
-        $('section.' + section).show(); 
-        $('section:not(.' + section + ')').hide(); 
-      });
-  });
-</script>
 </body>
 </html>

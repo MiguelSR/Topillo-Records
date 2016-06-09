@@ -1,9 +1,14 @@
+var fileinclude = require('gulp-file-include');
 var gulp = require('gulp');
 var mustache = require("gulp-mustache");
 
         //.pipe(mustache('items.json'), {extension: 'html'})
 gulp.task('compile', function() {
-    foo = gulp.src('./templates/*.html')
+    gulp.src('./templates/*.html')
+        .pipe(fileinclude({
+            prefix: '@@',
+            basepath: 'templates',
+        }))
         .pipe(mustache('items.json'), {'extension': 'html'})
         .pipe(gulp.dest('.'));
 });
