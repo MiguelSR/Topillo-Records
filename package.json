@@ -24,5 +24,5 @@
     "gulp": "^3.9.1",
     "gulp-file-include": "^0.13.7",
     "gulp-mustache": "^2.2.0"
-  },
+  }
 }
