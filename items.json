@@ -17,6 +17,14 @@
           "label": "Weird Truth Productions",
           "price": 8
         }, {
+          "image": "oldtimesofheathenforest.jpg",
+          "band": "Dhaubgurz",
+          "album": "Old Times of Heathen Forest",
+          "format": "CD",
+          "description": "Black Metal with pagan spirit from Spain. In the vein of Taake, Immortal or Windir.",
+          "label": "Vertebrae Records",
+          "price": 8
+        }, {
           "image": "mountainsofmadness.jpg",
           "band": "Doomraiser",
           "album": "Mountains of Madness",
@@ -87,14 +95,6 @@
           "format": "CD",
           "description": "Interesting band from the minds behind Insulters. Here they play a mix of Black/Death/Rock n roll with some doomy touches.",
           "label": "Equinox Discos",
-          "price": 8
-        }, {
-          "image": "warlordsofdestruction.jpg",
-          "band": "Witchtiger",
-          "album": "Warlords of Destruction (2004-2014)",
-          "format": "CD",
-          "description": "Compilation of this epic heavy/doom metal band from Finland. Raw style influenced by Manilla Road, Reverend Bizarre, etc.",
-          "label": "Metal Ör Die Records",
           "price": 8
         }, {
           "image": "lastcdbeforedoomsday.jpg",
