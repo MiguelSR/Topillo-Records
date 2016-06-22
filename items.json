@@ -9,6 +9,14 @@
           "label": "Dunkelheit Productions",
           "price": 8
         }, {
+          "image": "thethirdcrusade.jpg",
+          "band": "Dawnrider",
+          "album": "The Third Crusade",
+          "format": "CD",
+          "description": "Last CD of this portuguese doom band. This time with some 70s touches, but still heavy... their best album up to now.",
+          "label": "Ragingplanet, At War With False Noise",
+          "price": 8
+        }, {
           "image": "curseofthehaunted.jpg",
           "band": "Dea Marica",
           "album": "Curse of the Haunted",
@@ -64,6 +72,14 @@
           "description": "Traditional doom metal with creepy female vocals from Madrid. For fans of Pentagram, Witchfinder General or Reino Ermitaño. Arguably, the best doom album ever recorded in Spain.",
           "label": "Out of the Past, Vertebrae, Topillo Records",
           "price": 8
+        }, {
+          "image": "carmillamarcillaspectralvisions.jpg",
+          "band": "Moss",
+          "album": "Carmilla (Marcilla) / Spectral Visions",
+          "format": "MCD Digi",
+          "description": "Two long songs by this dark and heavy band. Horror doom from the South of England.",
+          "label": "At War With False Noise",
+          "price": 6
         }, {
           "image": "nightgaunt.jpg",
           "band": "Night Gaunt",
