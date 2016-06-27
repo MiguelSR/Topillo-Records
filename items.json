@@ -87,7 +87,7 @@
           "format": "MCD Digi",
           "description": "Two long songs by this dark and heavy band. Horror doom from the South of England.",
           "label": "At War With False Noise",
-          "price": 6
+          "price": 5
         }, {
           "image": "nightgaunt.jpg",
           "band": "Night Gaunt",
@@ -103,6 +103,14 @@
           "format": "CD",
           "description": "Finally available the second full-length of these death metal maniacs from Cuenca (Spain). If you like your Death Metal being rooted in the ancient sounds, try this.",
           "label": "Equinox Discos",
+          "price": 8
+        }, {
+          "image": "forcedentry.jpg",
+          "band": "RAM",
+          "album": "Forced Entry (Tenth Anniversary Edition)",
+          "format": "CD",
+          "description": "10th anniversary reissue of Forced Entry, the debut album of the Heavy Metal band RAM. In short words: pounding metal a la Judas Priest!",
+          "label": "Bloody Productions",
           "price": 8
         }, {
           "image": "stayclosetothefire.jpg",
