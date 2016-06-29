@@ -65,6 +65,14 @@
           "label": "Metal Ör Die Records",
           "price": 8
         }, {
+          "image": "lucifersfall.jpg",
+          "band": "Lucifer's Fall",
+          "album": "Lucifer's Fall",
+          "format": "CD",
+          "description": "Nice debut CD of this australian true doom freaks! For fans of Reverend Bizarre or Saint Vitus.",
+          "label": "Hammerheart Records",
+          "price": 8
+        }, {
           "image": "thethirdman.jpg",
           "band": "Misty Grey",
           "album": "The Third Man",
@@ -111,6 +119,14 @@
           "format": "CD",
           "description": "10th anniversary reissue of Forced Entry, the debut album of the Heavy Metal band RAM. In short words: pounding metal a la Judas Priest!",
           "label": "Bloody Productions",
+          "price": 8
+        }, {
+          "image": "theinvocation.jpg",
+          "band": "Rote Mare",
+          "album": "The Invocation",
+          "format": "CD",
+          "description": "Although Rote Mare used to be a one-man project, now it's a full true doom band. Twisted and demented stuff from Australia.",
+          "label": "Rotedoom Records",
           "price": 8
         }, {
           "image": "stayclosetothefire.jpg",
