@@ -6,7 +6,7 @@
           "album": "Vejación de la Bestia / Fosa Común",
           "format": "CD Digi",
           "description": "Chemical grinding black/death assault from Panamá!!!!",
-          "label": "Dunkelheit Productions",
+          "label": "Dunkelheit Produktionen",
           "price": 8
         }, {
           "image": "thethirdcrusade.jpg",
@@ -39,6 +39,22 @@
           "format": "CD Digi",
           "description": "Third record of this pure doom metal band from Italy. Great CD!",
           "label": "BloodRock Records",
+          "price": 8
+        }, {
+          "image": "fangtooth.jpg",
+          "band": "Fangtooth",
+          "album": "Fangtooth",
+          "format": "CD",
+          "description": "Debut album of this italian traditional doom metal band.",
+          "label": "Solitude Productions",
+          "price": 8
+        }, {
+          "image": "infieldsofpestilentgrief.jpg",
+          "band": "Funeral",
+          "album": "In Fields Of Pestilent Grief",
+          "format": "CD Digi",
+          "description": "Re-issue of the 2001 comeback album of this legendary band from Norway.",
+          "label": "Solitude Productions",
           "price": 8
         }, {
           "image": "pathways.jpg",
@@ -97,12 +113,28 @@
           "label": "BloodRock Records",
           "price": 8
         }, {
+          "image": "obsidiansea.jpg",
+          "band": "Obsidian Sea",
+          "album": "Obsidian Sea",
+          "format": "CD",
+          "description": "Debut album of this great band of true doom metal from Bulgaria!",
+          "label": "Solitude Productions",
+          "price": 8
+        }, {
           "image": "lacavernadefuego.jpg",
           "band": "Oniricous",
           "album": "La Caverna de Fuego",
           "format": "CD",
           "description": "Finally available the second full-length of these death metal maniacs from Cuenca (Spain). If you like your Death Metal being rooted in the ancient sounds, try this.",
           "label": "Equinox Discos",
+          "price": 8
+        }, {
+          "image": "heartwithbread.jpg",
+          "band": "Quercus",
+          "album": "Heart With Bread",
+          "format": "CD",
+          "description": "Fucking great funeral doom album of these czechs. Church organ worshipping a la Skepticism, etc.",
+          "label": "Moscow Funeral League / Solitude Productions",
           "price": 8
         }, {
           "image": "forcedentry.jpg",
