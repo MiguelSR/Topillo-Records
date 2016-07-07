@@ -57,6 +57,22 @@
           "label": "Solitude Productions",
           "price": 8
         }, {
+          "image": "transience.jpg",
+          "band": "Funeral Moth",
+          "album": "Transience",
+          "format": "CD Digi",
+          "description": "Amazing new album of this japanese band. They still have the funeral feeling but now with a more tranquil and calmed down vibe... sometimes it even reminds me to Earth. One of my 2016 favourites so far, pure sadness.",
+          "label": "Weird Truth Productions",
+          "price": 8
+        }, {
+          "image": "deceivedidealism.jpg",
+          "band": "Funeralium",
+          "album": "Deceived Idealism",
+          "format": "Double CD",
+          "description": "Opressive and asphyxiating doom/death from France, with members of Ataraxie. This is their last album so far, almost 90 minutes of extreme, crushing and desperate doom. Not for the weak.",
+          "label": "Weird Truth Productions",
+          "price": 9
+        }, {
           "image": "pathways.jpg",
           "band": "The Human Condition",
           "album": "Pathways",
