@@ -9,6 +9,14 @@
           "label": "Dunkelheit Produktionen",
           "price": 8
         }, {
+          "image": "peelsessions1997.jpg",
+          "band": "Agathocles",
+          "album": "Peel Sessions 1997",
+          "format": "CD",
+          "description": "Classical recording of the most prolific band ever. Recorded back on 1997 on request or Mr. Peel himself.",
+          "label": "Selfmadegod Records",
+          "price": 8
+        }, {
           "image": "thethirdcrusade.jpg",
           "band": "Dawnrider",
           "album": "The Third Crusade",
@@ -129,6 +137,14 @@
           "label": "BloodRock Records",
           "price": 8
         }, {
+          "image": "overkillcommando.jpg",
+          "band": "Nuclear Holocaust",
+          "album": "Overkill Commando",
+          "format": "CD",
+          "description": "Old-school grindcore from Poland, very much in the vein of Repulsion.",
+          "label": "Selfmadegod Records",
+          "price": 8
+        }, {
           "image": "betweentwodeserts.jpg",
           "band": "Obsidian Sea",
           "album": "Between Two Deserts",
@@ -160,6 +176,14 @@
           "description": "10th anniversary reissue of Forced Entry, the debut album of the Heavy Metal band RAM. In short words: pounding metal a la Judas Priest!",
           "label": "Bloody Productions",
           "price": 8
+        }, {
+          "image": "nowhere.jpg",
+          "band": "Rot",
+          "album": "Nowhere",
+          "format": "MCD",
+          "description": "More grindcore madness from these brazilian freaks. Brand new EP, released in 2016.",
+          "label": "Selfmadegod Records",
+          "price": 5
         }, {
           "image": "theinvocation.jpg",
           "band": "Rote Mare",
