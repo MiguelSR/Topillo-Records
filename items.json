@@ -9,6 +9,22 @@
           "label": "Dunkelheit Produktionen",
           "price": 8
         }, {
+          "image": "feretri.jpg",
+          "band": "Abysmal Grief",
+          "album": "Feretri",
+          "format": "CD",
+          "description": "Great album of this cult italian band. Horror doom in its purest form, catchy and creepy as hell. A must.",
+          "label": "Terror From Hell Records",
+          "price": 8
+        }, {
+          "image": "strangeritesofevil.jpg",
+          "band": "Abysmal Grief",
+          "album": "Strange Rites of Evil",
+          "format": "CD",
+          "description": "New album of the horror doom masters! Great as usual, maybe even better than Feretri. Includes a nice Bedemon cover!",
+          "label": "Terror From Hell Records",
+          "price": 8
+        }, {
           "image": "peelsessions1997.jpg",
           "band": "Agathocles",
           "album": "Peel Sessions 1997",
@@ -80,6 +96,14 @@
           "description": "Opressive and asphyxiating doom/death from France, with members of Ataraxie. This is their last album so far, almost 90 minutes of extreme, crushing and desperate doom. Not for the weak.",
           "label": "Weird Truth Productions",
           "price": 9
+        }, {
+          "image": "figlidelcrepuscolo.jpg",
+          "band": "Hands of Orlac",
+          "album": "Figli del Crepuscolo",
+          "format": "CD",
+          "description": "Last album of this italian band (located in Sweden, though). Great as expected, with evil flutes and female vocals.",
+          "label": "Terror From Hell Records",
+          "price": 8
         }, {
           "image": "pathways.jpg",
           "band": "The Human Condition",
