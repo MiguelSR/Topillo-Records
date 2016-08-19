@@ -33,6 +33,30 @@
           "label": "Selfmadegod Records",
           "price": 8
         }, {
+          "image": "theothershore.jpg",
+          "band": "Broken Down",
+          "album": "The Other Shore",
+          "format": "CD",
+          "description": "Very strange recording... kind of electronic / industrial metal with some catchy vocals... not for me, it lack balls. Topillo clubbers may enjoy it, though.",
+          "label": "Altsphere Production",
+          "price": 8
+        }, {
+          "image": "dolmenn.jpg",
+          "band": "Cabeza de Caballo",
+          "album": "Dolmenn",
+          "format": "CD",
+          "description": "Second album of this great band from Motril and beyond. Way better and more diverse than the first one.",
+          "label": "Discos Macarras",
+          "price": 8
+        }, {
+          "image": "holocaustofecstasyandfreedom.jpg",
+          "band": "Cardinals Folly",
+          "album": "Holocaust of Ecstasy & Freedom",
+          "format": "CD",
+          "description": "I like this band very much! Classical doom from Finland, I thought they were mere Reverend Bizarre worshippers but they are actually good.",
+          "label": "Shadow Kingdom Records",
+          "price": 8
+        }, {
           "image": "thethirdcrusade.jpg",
           "band": "Dawnrider",
           "album": "The Third Crusade",
@@ -65,12 +89,44 @@
           "label": "BloodRock Records",
           "price": 8
         }, {
+          "image": "ii.jpg",
+          "band": "Eibon",
+          "album": "II",
+          "format": "CD Digi",
+          "description": "Monstrous sludge from this frenchmen! Sounds good.",
+          "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
+          "image": "nodice.jpg",
+          "band": "Ewig Frost",
+          "album": "No Dice",
+          "format": "CD",
+          "description": "Second album of this band from Austria. Dirty Black / Speed / Rock n roll etc.",
+          "label": "Discos Macarras, Música Híbrida",
+          "price": 8
+        }, {
+          "image": "drownedinanunknownmeaningoflifeanddeath.jpg",
+          "band": "The Fallen",
+          "album": "Drowned In An Unknown Meaning Of Life And Death",
+          "format": "CD",
+          "description": "Chilean death / doom, creepy and dark as hell. Chile usually delivers nice dark music and this is no exception.",
+          "label": "From the Grave Records",
+          "price": 8
+        }, {
           "image": "fangtooth.jpg",
           "band": "Fangtooth",
           "album": "Fangtooth",
           "format": "CD",
           "description": "Debut album of this italian traditional doom metal band.",
           "label": "Solitude Productions",
+          "price": 8
+        }, {
+          "image": "homonihilis.jpg",
+          "band": "Fatum Elisum",
+          "album": "Homo Nihilis",
+          "format": "CD",
+          "description": "Last album of this rather unknown french doom band.",
+          "label": "Aesthetic Death Records",
           "price": 8
         }, {
           "image": "infieldsofpestilentgrief.jpg",
@@ -96,6 +152,30 @@
           "description": "Opressive and asphyxiating doom/death from France, with members of Ataraxie. This is their last album so far, almost 90 minutes of extreme, crushing and desperate doom. Not for the weak.",
           "label": "Weird Truth Productions",
           "price": 9
+        }, {
+          "image": "downstream.jpg",
+          "band": "Goatpsalm",
+          "album": "Downstream",
+          "format": "CD",
+          "description": "Ambient / dark / doom of this russian outcasts. Not easy to listen, but inspiring.",
+          "label": "Aesthetic Death Records",
+          "price": 9
+        }, {
+          "image": "nightmarepainting.jpg",
+          "band": "Haiku Funeral",
+          "album": "Nightmare Painting",
+          "format": "CD",
+          "description": "Dark electronic music, opressive sounds. Handle with care.",
+          "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
+          "image": "hallucinations.jpg",
+          "band": "Haiku Funeral",
+          "album": "Hallucinations",
+          "format": "CD Digi",
+          "description": "As the label says: \"Dark visitations from syncopated, hypnotic, lysergic and erotic rites - musick and magick are intertwined and explored.\"",
+          "label": "Aesthetic Death Records",
+          "price": 8
         }, {
           "image": "figlidelcrepuscolo.jpg",
           "band": "Hands of Orlac",
@@ -127,6 +207,30 @@
           "format": "CD",
           "description": "Cult 1992 demo of this hungarian crossover band. Recommended for freaks of hungarian crossover bands, goulash, etc!",
           "label": "Metal Ör Die Records",
+          "price": 8
+        }, {
+          "image": "thedeluge.jpg",
+          "band": "Manilla Road",
+          "album": "The Deluge",
+          "format": "CD",
+          "description": "ARRRGHHH!!!! Maybe the best album of the Wichita legends? I don't know, but I enjoy every single track... buy it!!!",
+          "label": "Shadow Kingdom Records",
+          "price": 8
+        }, {
+          "image": "mystification.jpg",
+          "band": "Manilla Road",
+          "album": "Mystification",
+          "format": "CD",
+          "description": "Another 80s gem from Manilla Road, great as usual!!!!",
+          "label": "Shadow Kingdom Records",
+          "price": 8
+        }, {
+          "image": "litost.jpg",
+          "band": "Mekigah",
+          "album": "Litost",
+          "format": "CD",
+          "description": "This doesn't have anything to do with metal. It's more like an ambient release, for the moments of introspection.",
+          "label": "Aesthetic Death Records",
           "price": 8
         }, {
           "image": "thethirdman.jpg",
@@ -161,6 +265,14 @@
           "label": "BloodRock Records",
           "price": 8
         }, {
+          "image": "processiontoannihilation.jpg",
+          "band": "The Nihilistic Front",
+          "album": "Procession to Annihilation",
+          "format": "CD",
+          "description": "This is one of the most extreme sounding doom records I've heard, and I've heard lots of them. Pure despair, the cover says it all.",
+          "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
           "image": "overkillcommando.jpg",
           "band": "Nuclear Holocaust",
           "album": "Overkill Commando",
@@ -177,12 +289,28 @@
           "label": "Solitude Productions",
           "price": 8
         }, {
+          "image": "sanctuminthelight.jpg",
+          "band": "Of Spire & Throne",
+          "album": "Sanctum In The Light",
+          "format": "CD Digi",
+          "description": "Extreme death/doom, right from the deepest cavern in the fucking world. Very heavy and opressive.",
+          "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
           "image": "lacavernadefuego.jpg",
           "band": "Oniricous",
           "album": "La Caverna de Fuego",
           "format": "CD",
           "description": "Finally available the second full-length of these death metal maniacs from Cuenca (Spain). If you like your Death Metal being rooted in the ancient sounds, try this.",
           "label": "Equinox Discos",
+          "price": 8
+        }, {
+          "image": "1634.jpg",
+          "band": "Ortega",
+          "album": "1634",
+          "format": "CD Digi",
+          "description": "Not to be confused with spanish Ortega Cano. Post sludge or whatever is called, not my favourite music to be honest.",
+          "label": "Aesthetic Death Records",
           "price": 8
         }, {
           "image": "marginados.jpg",
@@ -225,12 +353,60 @@
           "label": "Rotedoom Records",
           "price": 8
         }, {
+          "image": "iithebleed.jpg",
+          "band": "Santo Rostro",
+          "album": "II: The Bleed",
+          "format": "CD",
+          "description": "Second band of this spanish band of sludge / alternative doom.",
+          "label": "Odio Sonoro, Discos Macarras, Nooirax Producciones",
+          "price": 8
+        }, {
+          "image": "pulvisetumbra.jpg",
+          "band": "Surtr",
+          "album": "Pulvis Et Umbra",
+          "format": "CD",
+          "description": "Classic doom metal with good intentions but a bit weak results. Anyway, enjoyable album with some nice parts.",
+          "label": "Altsphere Production",
+          "price": 8
+        }, {
+          "image": "thisviperwomb.jpg",
+          "band": "ThrOes",
+          "album": "This Viper Womb",
+          "format": "CD Digi",
+          "description": "Strange mixture of black metal and metalcore or something like that.",
+          "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
           "image": "stayclosetothefire.jpg",
           "band": "Voidkush",
           "album": "Stay Close To The Fire",
           "format": "CD",
           "description": "Interesting band from the minds behind Insulters. Here they play a mix of Black/Death/Rock n roll with some doomy touches.",
           "label": "Equinox Discos",
+          "price": 8
+        }, {
+          "image": "doomicvsvobiscvm.jpg",
+          "band": "Weird Light",
+          "album": "Doomicvs Vobiscvm",
+          "format": "CD",
+          "description": "Short-lived band from France, they released this nice demo some years ago and now Shadow Kingdom re-releases it. Good!",
+          "label": "Shadow Kingdom Records",
+          "price": 8
+        }, {
+          "image": "agazeblankandpitilessasthesun.jpg",
+          "band": "Whelm",
+          "album": "A Gaze Blank and Pitiless As The Sun",
+          "format": "CD",
+          "description": "More darkness from Aesthetic Death Records.",
+          "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
+          "image": "fourtiredundertakers.jpg",
+          "band": "Wizard's Beard",
+          "album": "Four Tired Undertakers",
+          "format": "CD",
+          "description": "Sludge band from UK, in the vein of the mighty Iron Monkey but of course not reaching their grandness.",
+          "label": "Altsphere Production",
           "price": 8
         }, {
           "image": "lastcdbeforedoomsday.jpg",
