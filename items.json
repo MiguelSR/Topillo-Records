@@ -25,6 +25,14 @@
           "label": "Terror From Hell Records",
           "price": 8
         }, {
+          "image": "mmxv.jpg",
+          "band": "Aetherius Obscuritas",
+          "album": "MMXV",
+          "format": "CD",
+          "description": "Magyar Black Metal with melodic touches and grim atmosphere.",
+          "label": "Paragon Records",
+          "price": 8
+        }, {
           "image": "peelsessions1997.jpg",
           "band": "Agathocles",
           "album": "Peel Sessions 1997",
@@ -129,6 +137,14 @@
           "label": "Aesthetic Death Records",
           "price": 8
         }, {
+          "image": "myjourneyisendingbutthetormentwillbeeternal.jpg",
+          "band": "Fornace",
+          "album": "My Journey Is Ending But The Torment Will Be Eternal",
+          "format": "CD",
+          "description": "Cold and canonic black metal with tremolo riffing, hateful atmosphere and all the things you would expect from a black metal release.",
+          "label": "Paragon Records",
+          "price": 8
+        }, {
           "image": "infieldsofpestilentgrief.jpg",
           "band": "Funeral",
           "album": "In Fields Of Pestilent Grief",
@@ -181,7 +197,7 @@
           "band": "Hands of Orlac",
           "album": "Figli del Crepuscolo",
           "format": "CD",
-          "description": "Last album of this italian band (located in Sweden, though). Great as expected, with evil flutes and female vocals.",
+          "description": "Last album of this italian band (located in Sweden, though). Great as expected, with evil flutes, female vocals, etc.",
           "label": "Terror From Hell Records",
           "price": 8
         }, {
@@ -365,7 +381,7 @@
           "band": "ThrOes",
           "album": "This Viper Womb",
           "format": "CD Digi",
-          "description": "Strange mixture of black metal and some '-core' things with asphyxiating and bizarre atmosphere",
+          "description": "Strange mixture of black metal and some '-core' things with asphyxiating and bizarre atmosphere.",
           "label": "Aesthetic Death Records",
           "price": 8
         }, {
