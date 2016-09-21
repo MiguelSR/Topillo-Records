@@ -49,6 +49,14 @@
           "label": "Metamatter Records, Wolfbiker Records",
           "price": 8
         }, {
+          "image": "incantationsofdecay.jpg",
+          "band": "Black Wasteland",
+          "album": "Incantations Of Decay",
+          "format": "CD",
+          "description": "Don't let the title of this album mislead you, this is not death metal, but proper doom with a heavy (yet groovy) edge. For fans of Hellhammer, Dream Death, Witchfinder General...",
+          "label": "Barbarian Wrath",
+          "price": 8
+        }, {
           "image": "theothershore.jpg",
           "band": "Broken Down",
           "album": "The Other Shore",
@@ -345,6 +353,14 @@
           "label": "Discos MeCagoEnDios",
           "price": 10
         }, {
+          "image": "stillunderground.jpg",
+          "band": "Pyöveli",
+          "album": "Still Underground",
+          "format": "CD",
+          "description": "Latest album of the best thrash band around, no doubt. Pure 80s worshipping of these finnish maniacs. Anti-intellectual speed/thrash metal.",
+          "label": "Witches Brew",
+          "price": 8
+        }, {
           "image": "heartwithbread.jpg",
           "band": "Quercus",
           "album": "Heart With Bread",
@@ -391,6 +407,14 @@
           "format": "CD Digi",
           "description": "Strange mixture of black metal and some '-core' things with asphyxiating and bizarre atmosphere.",
           "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
+          "image": "houndsofmegiddo.jpg",
+          "band": "Vigilance",
+          "album": "Hounds Of Megiddo",
+          "format": "CD",
+          "description": "Latest album of this Slovenian band. Vocals a la Venom and dirty sound, but the music is more elaborated and closer to classic heavy metal that your average speed/black band.",
+          "label": "Witches Brew",
           "price": 8
         }, {
           "image": "voidobelisk.jpg",
