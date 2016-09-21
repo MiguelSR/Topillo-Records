@@ -41,6 +41,14 @@
           "label": "Selfmadegod Records",
           "price": 8
         }, {
+          "image": "nothingnew.jpg",
+          "band": "Black Shape Of Nexus",
+          "album": "Nothing New — 10 Years Of Fresh Air Enjoyment",
+          "format": "CD",
+          "description": "Compilation of stuff previously released only in splits, samplers etc. of this german band.",
+          "label": "Metamatter Records, Wolfbiker Records",
+          "price": 8
+        }, {
           "image": "theothershore.jpg",
           "band": "Broken Down",
           "album": "The Other Shore",
@@ -53,7 +61,7 @@
           "band": "Cabeza de Caballo",
           "album": "Dolmenn",
           "format": "CD",
-          "description": "Second album of this great band from Motril and beyond. Way better and more diverse than the first one.",
+          "description": "Second album of this great band from Motril and beyond. Way better and more diverse than the first one. Includes poster!",
           "label": "Discos Macarras",
           "price": 8
         }, {
@@ -63,6 +71,14 @@
           "format": "CD",
           "description": "I like this band very much! Classical doom from Finland, I thought they were mere Reverend Bizarre worshippers but they are actually good.",
           "label": "Shadow Kingdom Records",
+          "price": 8
+        }, {
+          "image": "darktharr.jpg",
+          "band": "Dark Tharr",
+          "album": "Dark Tharr",
+          "format": "Digi CD",
+          "description": "Debut CD of this german band, sludge a la Weedeater, Noothgrush, etc.",
+          "label": "Meta Matter Records",
           "price": 8
         }, {
           "image": "thethirdcrusade.jpg",
@@ -257,6 +273,14 @@
           "label": "At War With False Noise",
           "price": 5
         }, {
+          "image": "heavyburden.jpg",
+          "band": "Naevus",
+          "album": "Heavy Burden",
+          "format": "CD Digi",
+          "description": "Finally Naevus are back, 18 years after their debut with Rise Above Records!!! This is a magnificient melodic doom effort... if you like their previous stuff as Naevus or Voodooshock you will like this. One of the best albums of 2016.",
+          "label": "Meta Matter Records",
+          "price": 8
+        }, {
           "image": "nightgaunt.jpg",
           "band": "Night Gaunt",
           "album": "Night Gaunt",
@@ -367,6 +391,14 @@
           "format": "CD Digi",
           "description": "Strange mixture of black metal and some '-core' things with asphyxiating and bizarre atmosphere.",
           "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
+          "image": "voidobelisk.jpg",
+          "band": "Void Obelisk",
+          "album": "A Journey Through The Twelve Hours Of The Night",
+          "format": "Digi CD",
+          "description": "Great demented sludge / drone with scary vocals a la Burning Witch, recommended.",
+          "label": "Meta Matter Records, Wolfbiker Records",
           "price": 8
         }, {
           "image": "stayclosetothefire.jpg",
