@@ -65,6 +65,15 @@
           "label": "Altsphere Production",
           "price": 8
         }, {
+          "image": "theunknownsecretary.jpg",
+          "band": "BUS",
+          "album": "The Unknown Secretary",
+          "format": "CD Digi",
+          "description": "Debut album of this good greek band. Similar to Black Sabbath, with twin guitars (more a la british heavy metal) but with kind of a stoner sound.",
+          "label": "Twin Earth Records",
+          "price": 8,
+          "publication_date": "2016-08-31"
+        }, {
           "image": "dolmenn.jpg",
           "band": "Cabeza de Caballo",
           "album": "Dolmenn",
@@ -83,8 +92,8 @@
         }, {
           "image": "darktharr.jpg",
           "band": "Dark Tharr",
-          "album": "Dark Tharr",
-          "format": "Digi CD",
+          "album": "S/T",
+          "format": "CD Digi",
           "description": "Debut CD of this german band, sludge a la Weedeater, Noothgrush, etc.",
           "label": "Meta Matter Records",
           "price": 8
@@ -207,6 +216,14 @@
           "format": "CD",
           "description": "Latest album of this italian band (located in Sweden, though). Great as expected, with evil flutes, female vocals, etc.",
           "label": "Terror From Hell Records",
+          "price": 8
+        }, {
+          "image": "haunted.jpg",
+          "band": "Haunted",
+          "album": "S/T",
+          "format": "CD Digi",
+          "description": "Stoner/Doom from Italy a la Electric Wizard but with softer vocal melodies and without the 'bad trip' vicious sound. Nice, relaxing and weed-friendly music.",
+          "label": "Twin Earth Records",
           "price": 8
         }, {
           "image": "pathways.jpg",
@@ -353,6 +370,23 @@
           "label": "Discos MeCagoEnDios",
           "price": 10
         }, {
+          "image": "blackmagicman.jpg",
+          "band": "Psychedelic Witchcraft",
+          "album": "Black Magic Man",
+          "format": "CD Digi",
+          "description": "Good female-fronted retro doom/stoner/occult rock. This band is getting a lot of attention, and I can see why!",
+          "label": "Twin Earth Records",
+          "price": 8,
+          "publication_date": "2015-10-10"
+        }, {
+          "image": "stillunderground.jpg",
+          "band": "Pyöveli",
+          "album": "Still Underground",
+          "format": "CD",
+          "description": "Latest album of the best thrash band around, no doubt. Pure 80s worshipping of these finnish maniacs. Anti-intellectual speed/thrash metal.",
+          "label": "Witches Brew",
+          "price": 8
+        }, {
           "image": "stillunderground.jpg",
           "band": "Pyöveli",
           "album": "Still Underground",
@@ -393,6 +427,22 @@
           "label": "Odio Sonoro, Discos Macarras, Nooirax Producciones",
           "price": 8
         }, {
+          "image": "starchild.jpg",
+          "band": "Starchild",
+          "album": "S/T",
+          "format": "CD",
+          "description": "Reissue of the already classic debut album of Starchild, great stoner/doom a la Sleep etc. Twin Earth delivers!",
+          "label": "Twin Earth Records",
+          "price": 8
+        }, {
+          "image": "noriders.jpg",
+          "band": "Stars That Move",
+          "album": "No Riders",
+          "format": "CD Digi",
+          "description": "What a surprise! New band of Ric Bennet (from Starchild), following the steps of his previous band but more calmed and even better! Female vocals, great melodies... one of the best albums of the year.",
+          "label": "Twin Earth Records",
+          "price": 8
+        }, {
           "image": "pulvisetumbra.jpg",
           "band": "Surtr",
           "album": "Pulvis Et Umbra",
@@ -420,7 +470,7 @@
           "image": "voidobelisk.jpg",
           "band": "Void Obelisk",
           "album": "A Journey Through The Twelve Hours Of The Night",
-          "format": "Digi CD",
+          "format": "CD Digi",
           "description": "Great demented sludge / drone with scary vocals a la Burning Witch, recommended.",
           "label": "Meta Matter Records, Wolfbiker Records",
           "price": 8
