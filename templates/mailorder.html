@@ -8,7 +8,14 @@
     {{#items}}
         <li>
           <article>
-            <img src="img/{{image}}" alt="{{band}} - {{album}}">
+            {{#full}}
+              <a href="img/big_{{image}}" target="_blank">
+                <img src="img/{{image}}" alt="{{band}} - {{album}}">
+              </a>
+            {{/full}}
+            {{^full}}
+              <img src="img/{{image}}" alt="{{band}} - {{album}}">
+            {{/full}}
             <h3>{{band}} - {{album}} ({{format}}) - {{price}} €</h3>
             <p class="label_info">{{label}}</p>
             <p>{{description}}</p>

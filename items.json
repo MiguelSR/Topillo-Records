@@ -250,6 +250,35 @@
           "label": "Metal Ör Die Records",
           "price": 8
         }, {
+          "image": "fuckyouwerelucifersfall.jpg",
+          "band": "Lucifer's Fall",
+          "album": "Fuck You We're Lucifer's Fall",
+          "format": "MCD",
+          "description": "Brand new MCD of these australian motherfuckers. One of the best doom bands that I've heard in years!! Three new studio songs and four rehearsal bonus tracks. Powerful, furious and classic doom. A must for every fucking doom-freak!!!",
+          "label": "Topillo Records",
+          "price": 6,
+          "publication_date": "2016-09-27"
+        }, {
+          "image": "fuckyouwerelucifersfallpack.jpg",
+          "band": "Lucifer's Fall",
+          "album": "Fuck You We're Lucifer's Fall",
+          "format": "MCD + T-shirt",
+          "description": "Brand new MCD of these australian motherfuckers. One of the best doom bands that I've heard in years!! Three new studio songs and four rehearsal bonus tracks. A must for every fucking doom-freak!!! Includes a nice yellow shirt... discretion is for suckers!",
+          "label": "Topillo Records",
+          "price": 16,
+          "publication_date": "2016-09-27",
+          "full": true
+        }, {
+          "image": "fuckyouwerelucifersshirt.jpg",
+          "band": "Lucifer's Fall",
+          "album": "Fuck You We're Lucifer's Fall",
+          "format": "T-shirt",
+          "description": "Yellow ultra-limited shirt of these australian diablos. Not for sissies.",
+          "label": "Topillo Records",
+          "price": 13,
+          "publication_date": "2016-09-27",
+          "full": true
+        }, {
           "image": "thedeluge.jpg",
           "band": "Manilla Road",
           "album": "The Deluge",
@@ -296,7 +325,7 @@
           "format": "MCD Digi",
           "description": "Two long songs by this dark and heavy band. Horror doom from the South of England.",
           "label": "At War With False Noise",
-          "price": 5
+          "price": 6
         }, {
           "image": "heavyburden.jpg",
           "band": "Naevus",
@@ -401,7 +430,7 @@
           "format": "MCD",
           "description": "More grindcore madness from these brazilian freaks. Brand new EP, released in 2016.",
           "label": "Selfmadegod Records",
-          "price": 5
+          "price": 6
         }, {
           "image": "theinvocation.jpg",
           "band": "Rote Mare",
