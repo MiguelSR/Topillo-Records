@@ -319,6 +319,15 @@
           "label": "Out of the Past, Vertebrae, Topillo Records",
           "price": 8
         }, {
+          "image": "morbidvisions5.jpg",
+          "band": "Morbid Visions",
+          "album": "#5",
+          "format": "Fanzine",
+          "description": "Interviews with Disembowelment, 13, Grief, Ride For Revenge, Asphyx, Dennis Dread, etc. Plus some nice articles about belgian beer, bizarre porn, etc. One of the best and bleakest fanzines from Spain, no doubt about that, with an unique aura of negativity. Written in spanish so be careful before ordering.",
+          "label": "Self-released",
+          "price": 5,
+          "publication_date": "2013-11-28"
+        }, {
           "image": "carmillamarcillaspectralvisions.jpg",
           "band": "Moss",
           "album": "Carmilla (Marcilla) / Spectral Visions",
@@ -381,6 +390,14 @@
           "format": "CD Digi",
           "description": "Not to be confused with spanish Ortega Cano. Post sludge or whatever is called, not my favourite music to be honest.",
           "label": "Aesthetic Death Records",
+          "price": 8
+        }, {
+          "image": "spreadingmywingsintotheabyssthatcalls.jpg",
+          "band": "Pale Mist",
+          "album": "Spreading My Wings Into The Abyss That Calls",
+          "format": "CD",
+          "description": "Crude black metal from the UK inspired by the lunar nightsky, nebular landscapes and the stench of death.",
+          "label": "Equinox Discos, Sinister Stench Productions, Werewolf Promotion",
           "price": 8
         }, {
           "image": "marginados.jpg",
