@@ -41,6 +41,24 @@
           "label": "Selfmadegod Records",
           "price": 8
         }, {
+          "image": "omahhumvajragurupadmasiddhihum.jpg",
+          "band": "AUM",
+          "album": "Om Ah Hum Vajra Guru Padma Siddhi Hum",
+          "format": "CD",
+          "description": "Debut full-length of this french death metal band. Cryptic, heavy, dark and twisted.",
+          "label": "Iron Bonehead Productions",
+          "price": 8,
+          "publication_date": "2016-09-09"
+        }, {
+          "image": "ankouandthedeathfire.jpg",
+          "band": "Black Funeral",
+          "album": "Ankou And The Death FIre",
+          "format": "CD Digi",
+          "description": "Brand new album of Black Funeral, one of the first american black metal bands. Pure black metal!",
+          "label": "Iron Bonehead Productions",
+          "price": 8,
+          "publication_date": "2016-09-13"
+        }, {
           "image": "nothingnew.jpg",
           "band": "Black Shape Of Nexus",
           "album": "Nothing New — 10 Years Of Fresh Air Enjoyment",
@@ -56,6 +74,15 @@
           "description": "Don't let the title of this album mislead you, this is not death metal, but proper doom with a heavy (yet groovy) edge. For fans of Hellhammer, Dream Death, Witchfinder General...",
           "label": "Barbarian Wrath",
           "price": 8
+        }, {
+          "image": "aura.jpg",
+          "band": "Bölzer",
+          "album": "Aura",
+          "format": "MCD",
+          "description": "One of the most renowned bands in the black/death underground of the last years. This is their first MCD, probably their best material up to date",
+          "label": "Iron Bonehead Productions",
+          "price": 6,
+          "publication_date": "2013-10-03"
         }, {
           "image": "theothershore.jpg",
           "band": "Broken Down",
@@ -275,7 +302,7 @@
           "format": "T-shirt",
           "description": "Yellow ultra-limited shirt of these australian diablos. Not for sissies.",
           "label": "Topillo Records",
-          "price": 13,
+          "price": 12,
           "publication_date": "2016-09-27",
           "full": true
         }, {
@@ -472,6 +499,15 @@
           "description": "Classic doom metal with good intentions but a bit weak results. Anyway, enjoyable album with some nice parts.",
           "label": "Altsphere Production",
           "price": 8
+        }, {
+          "image": "thehecatomb.jpg",
+          "band": "Temple Nightside",
+          "album": "The Hecatomb",
+          "format": "CD Digi",
+          "description": "Second album of this australian black/death group. The adjective opressive or cavernous can be a cliche, but fit their music pretty accurately. Fucking chaos from the depths.",
+          "label": "Iron Bonehead Productions",
+          "price": 8,
+          "publication_date": "2016-07-29"
         }, {
           "image": "thisviperwomb.jpg",
           "band": "ThrOes",
