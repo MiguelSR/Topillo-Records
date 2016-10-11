@@ -157,6 +157,15 @@
           "label": "Aesthetic Death Records",
           "price": 8
         }, {
+          "image": "byhonour.jpg",
+          "band": "Ereb Altor",
+          "album": "By Honour",
+          "format": "CD",
+          "description": "Repress of the debut album of this epic metal band, with members of Isole. This record is a true gem, following the path taken by Bathory at their viking era but with a more doomy sound.",
+          "label": "I Hate Records",
+          "price": 8,
+          "publication_date": "2008-03-01"
+        }, {
           "image": "nodice.jpg",
           "band": "Ewig Frost",
           "album": "No Dice",
@@ -484,6 +493,15 @@
           "label": "Odio Sonoro, Discos Macarras, Nooirax Producciones",
           "price": 8
         }, {
+          "image": "serpentwarning.jpg",
+          "band": "Serpent Warning",
+          "album": "S/T",
+          "format": "CD",
+          "description": "Traditional doom from Finland, sharing vocalist with The Wandering Midget. Great album with haunting choruses and lots of respect to classic doom metal sound.",
+          "label": "I Hate Records",
+          "price": 8,
+          "publication_date": "2014-04-11"
+        }, {
           "image": "starchild.jpg",
           "band": "Starchild",
           "album": "S/T",
@@ -499,6 +517,15 @@
           "description": "Classic doom metal with good intentions but a bit weak results. Anyway, enjoyable album with some nice parts.",
           "label": "Altsphere Production",
           "price": 8
+        }, {
+          "image": "forevermourn.jpg",
+          "band": "The Temple",
+          "album": "Forevermourn",
+          "format": "CD",
+          "description": "Re-stock of this great album! For me, one of the best (if not the best) epic doom records in the last ten years or so. Great guitar melodies, great vocals, great songs, great EVERYTHING.",
+          "label": "I Hate Records",
+          "price": 8,
+          "publication_date": "2016-03-18"
         }, {
           "image": "thehecatomb.jpg",
           "band": "Temple Nightside",
