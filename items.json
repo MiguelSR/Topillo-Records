@@ -47,7 +47,7 @@
           "format": "CD",
           "description": "Debut full-length of this french death metal band. Cryptic, heavy, dark and twisted.",
           "label": "Iron Bonehead Productions",
-          "price": 8,
+          "price": 9,
           "publication_date": "2016-09-09"
         }, {
           "image": "ankouandthedeathfire.jpg",
@@ -56,7 +56,7 @@
           "format": "CD Digi",
           "description": "Brand new album of Black Funeral, one of the first american black metal bands. Pure black metal!",
           "label": "Iron Bonehead Productions",
-          "price": 8,
+          "price": 9,
           "publication_date": "2016-09-13"
         }, {
           "image": "nothingnew.jpg",
@@ -98,7 +98,7 @@
           "format": "CD Digi",
           "description": "Debut album of this good greek band. Similar to Black Sabbath, with twin guitars (more a la british heavy metal) but with kind of a stoner sound.",
           "label": "Twin Earth Records",
-          "price": 8,
+          "price": 9,
           "publication_date": "2016-08-31"
         }, {
           "image": "dolmenn.jpg",
@@ -108,6 +108,15 @@
           "description": "Second album of this great band from Motril and beyond. Way better and more diverse than the first one. Includes poster!",
           "label": "Discos Macarras",
           "price": 8
+        }, {
+          "image": "captainthreelegwadge.jpg",
+          "band": "Captain Three Leg / Wadge",
+          "album": "Split",
+          "format": "CD",
+          "description": "Grindcore fucking grindcore! Great CD split of these two bands. Wadge have some crossover touches in the voices and riffs (amazing!!), and Captain Three Leg are pure violence! I fucking love grindcore. This was supposed to be a 7'' but finally has been released in a CD in PVC wallet.",
+          "label": "At War With False Noise, Unholy Anarchy Records, Mortville Records",
+          "price": 4,
+          "publication_date": "2016-01-23"
         }, {
           "image": "holocaustofecstasyandfreedom.jpg",
           "band": "Cardinals Folly",
@@ -148,6 +157,33 @@
           "description": "Black Metal with pagan spirit from Spain. In the vein of Taake, Immortal or Windir.",
           "label": "Vertebrae",
           "price": 8
+        }, {
+          "image": "thewitchinghour.jpg",
+          "band": "Doctor Smoke",
+          "album": "The Witching Hour",
+          "format": "Digi CD",
+          "description": "Hard rocking hard / heavy / stoner / doom / whatever from Ohio! In the vein of Uncle Acid but less poppy and more energic. Great vocal delivery!",
+          "label": "Totem Cat Records",
+          "price": 9,
+          "publication_date": "2014-11-28"
+        }, {
+          "image": "hochelaga.jpg",
+          "band": "Dopethrone",
+          "album": "Hochelaga",
+          "format": "Digi CD",
+          "description": "Doom/sludge from Canada, heavy as a fucking mammoth. For fans of Electric Wizard, Iron Monkey, Weedeater and so on.",
+          "label": "Riff Dealer Records, Totem Cat Records",
+          "price": 9,
+          "publication_date": "2015-04-15"
+        }, {
+          "image": "becomethesun.jpg",
+          "band": "Egypt",
+          "album": "Become The Sun",
+          "format": "Digi CD",
+          "description": "Debut album of this stoner/doom from Fargo. Absolutely recommended, only americans can do this style as classy as Egypt do.",
+          "label": "Totem Cat Records",
+          "price": 9,
+          "publication_date": "2013-01-01"
         }, {
           "image": "ii.jpg",
           "band": "Eibon",
@@ -260,7 +296,16 @@
           "format": "CD Digi",
           "description": "Stoner/Doom from Italy a la Electric Wizard but with softer vocal melodies and without the 'bad trip' vicious sound. Nice, relaxing and weed-friendly music.",
           "label": "Twin Earth Records",
-          "price": 8
+          "price": 9
+        }, {
+          "image": "darkphoenixrising.jpg",
+          "band": "Heavydeath",
+          "album": "Dark Phoenix Rising",
+          "format": "MCD Digi",
+          "description": "EP of 52 minutes of this prolific band from Sweden, formed by members of Runemagick. Monotonous Death/doom metal that could remind of Saint Vitus or Sleep but with extreme metal vibe.",
+          "label": "At War With False Noise, Dying Sun Records",
+          "price": 6,
+          "publication_date": "2016-01-22"
         }, {
           "image": "pathways.jpg",
           "band": "The Human Condition",
@@ -450,7 +495,7 @@
           "format": "CD Digi",
           "description": "Good female-fronted retro doom/stoner/occult rock. This band is getting a lot of attention, and I can see why!",
           "label": "Twin Earth Records",
-          "price": 8,
+          "price": 9,
           "publication_date": "2015-10-10"
         }, {
           "image": "stillunderground.jpg",
@@ -499,7 +544,7 @@
           "format": "CD",
           "description": "Reissue of the already classic debut album of Starchild, great stoner/doom a la Sleep etc. Twin Earth delivers!",
           "label": "Twin Earth Records",
-          "price": 8
+          "price": 9
         }, {
           "image": "pulvisetumbra.jpg",
           "band": "Surtr",
@@ -524,7 +569,7 @@
           "format": "CD Digi",
           "description": "Second album of this australian black/death group. The adjectives opressive or cavernous may be cliches, but fit their music pretty accurately. Fucking chaos from the depths.",
           "label": "Iron Bonehead Productions",
-          "price": 8,
+          "price": 9,
           "publication_date": "2016-07-29"
         }, {
           "image": "thisviperwomb.jpg",
