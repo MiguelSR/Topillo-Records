@@ -2,28 +2,8 @@
 <main>
   <section>
     <h2>Mailorder</h2>
-    <p class="info_text">To order our items, just send a mail to <a href="mailto:blackhandzine@gmail.com">blackhandzine@gmail.com</a> and we'll answer you as soon as possible.<br>
+    Send us a <a href="mailto:blackhandzine@gmail.com">mail</a> or visit our <strong><a href="http://topillo.tictail.com" target="_blank">Online Shop</a></strong> to order our items!
     You can also check our  <a href="https://www.discogs.com/seller/MiguelSR/profile">Discogs profile</a> and get them there.</p>
-    <ul class="item_list">
-    {{#items}}
-        <li>
-          <article>
-            {{#full}}
-              <a href="img/big_{{image}}" target="_blank">
-                <img src="img/{{image}}" alt="{{band}} - {{album}}">
-              </a>
-            {{/full}}
-            {{^full}}
-              <img src="img/{{image}}" alt="{{band}} - {{album}}">
-            {{/full}}
-            <h3>{{band}} - {{album}} ({{format}}) - {{price}} €</h3>
-            <p class="label_info">{{label}}</p>
-            <p>{{description}}</p>
-            <div style="clear:both"></div>
-          </article>
-        </li>
-    {{/items}}
-    </ul>
   </section>
 </main>
 @@include('includes/footer.html')
