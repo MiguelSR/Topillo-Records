@@ -21,8 +21,11 @@
   },
   "homepage": "https://github.com/MiguelSR/Topillo-Records#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-file-include": "^0.13.7",
     "gulp-mustache": "^2.2.0"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.2.0"
   }
 }
